@@ -1,0 +1,9 @@
+.startscreen{
+  text-align:center;
+}
+body{
+  background-image:url("bg.gif");
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+  }
